@@ -1,0 +1,99 @@
+.box { color: #e9e9e9;
+place-items:center ;    padding: 30px;
+    background-color: rgb(30, 30, 30);
+    outline-style: solid;
+    outline-color: #323232;
+    text-align: center;
+margin: 0px;}
+.thing1 {color:rgb(224, 224, 224);}
+.uhh_yeah {       
+position: relative; left: 500px;  }
+.thing-box {color: #e9e9e9;
+width: 80px;
+height: 20px;
+padding:10px;
+margin: 0;
+}
+.main_content {
+        margin-left: auto;
+    margin-right: auto;
+    max-width: 990px;
+    width: 990px;
+
+}
+.in_line {     margin-left: auto;
+    margin-right: auto;
+    max-width: 990px;
+    width: 990px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: rgb(30, 30, 30);
+    outline-style: solid;
+    outline-color: #323232;
+    place-items: center;
+    color: #e9e9e9;
+}
+.hold {height: 30px;}
+.yeah {margin-left: auto;
+    margin-right: auto;
+    max-width: 990px;
+    width: 990px;    
+    color: #e9e9e9;}
+.box_link_L {    background-color: rgb(30, 30, 30);
+    outline-style: solid;
+    outline-color: #323232;
+    max-width: 400px;
+    width: 400px;
+    max-height: 600px;
+    height: 600px;
+    color: #e9e9e9;
+    padding-left:10px;
+    padding-right: 10px;
+}
+    .box_link_R {    background-color: rgb(30, 30, 30);
+    outline-style: solid;
+    outline-color: #323232;
+    place-items: center;
+    max-width: 900px;
+    width: 900px;
+    max-height: 600px;
+    height: 600px;
+    place-items: center;
+    color: #e9e9e9
+}
+    .box_links {display: flex;
+    column-gap: 20px;
+}
+.yes {background-color: #303030;
+outline-style: solid;
+outline-color: #444444;
+place-items: center;
+padding: 5px;
+text-align: center;}
+a {color: inherit;
+text-decoration: none;}
+.bg {  background-image: url(plle.webp);
+  background-size: 200px;}
+  .bob {  position: relative;
+  z-index: 1;       }
+          #Library {
+    height: 70px;
+    width: 120px;
+}
+.wrath {
+  animation: rotation 3s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+.misc{  margin-left: auto;
+  margin-right: auto;
+  display: block;}
